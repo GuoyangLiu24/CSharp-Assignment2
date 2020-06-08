@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guoyang_liu_exercise1", "guoyang_liu_exercise1\guoyang_liu_exercise1.csproj", "{351E9B2E-E1B3-4299-BBB4-327D2B68EA32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guoyang_liu_exercise2", "guoyang_liu_exercise2\guoyang_liu_exercise2.csproj", "{D92EA0C1-5EFD-46E3-A02A-0A3E286650B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351E9B2E-E1B3-4299-BBB4-327D2B68EA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351E9B2E-E1B3-4299-BBB4-327D2B68EA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351E9B2E-E1B3-4299-BBB4-327D2B68EA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351E9B2E-E1B3-4299-BBB4-327D2B68EA32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92EA0C1-5EFD-46E3-A02A-0A3E286650B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92EA0C1-5EFD-46E3-A02A-0A3E286650B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92EA0C1-5EFD-46E3-A02A-0A3E286650B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92EA0C1-5EFD-46E3-A02A-0A3E286650B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BA5EBF2-BA4C-43F7-8F08-CC2AF5538F36}
+	EndGlobalSection
+EndGlobal

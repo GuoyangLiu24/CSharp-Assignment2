@@ -1,0 +1,19 @@
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\YenHao-Fan_Sec004_COMP212_Lab02_2\bin\Debug\YenHao-Fan_Sec004_COMP212_Lab02_2.exe.config
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\YenHao-Fan_Sec004_COMP212_Lab02_2\bin\Debug\YenHao-Fan_Sec004_COMP212_Lab02_2.exe
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\YenHao-Fan_Sec004_COMP212_Lab02_2\bin\Debug\YenHao-Fan_Sec004_COMP212_Lab02_2.pdb
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\YenHao-Fan_Sec004_COMP212_Lab02_2\bin\Debug\LinkedListLibrary.dll
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\YenHao-Fan_Sec004_COMP212_Lab02_2\bin\Debug\LinkedListLibrary.pdb
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\YenHao-Fan_Sec004_COMP212_Lab02_2\obj\Debug\LinkedListLibraryTest.csprojAssemblyReference.cache
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\YenHao-Fan_Sec004_COMP212_Lab02_2\obj\Debug\LinkedListLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\YenHao-Fan_Sec004_COMP212_Lab02_2\obj\Debug\LinkedListLibraryTest.csproj.CopyComplete
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\YenHao-Fan_Sec004_COMP212_Lab02_2\obj\Debug\YenHao-Fan_Sec004_COMP212_Lab02_2.exe
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\YenHao-Fan_Sec004_COMP212_Lab02_2\obj\Debug\YenHao-Fan_Sec004_COMP212_Lab02_2.pdb
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise3\Guoyang_Liu_Sec003_COMP212_Lab02_3\bin\Debug\Guoyang_Liu_Sec003_COMP212_Lab02_3.exe.config
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise3\Guoyang_Liu_Sec003_COMP212_Lab02_3\bin\Debug\Guoyang_Liu_Sec003_COMP212_Lab02_3.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise3\Guoyang_Liu_Sec003_COMP212_Lab02_3\bin\Debug\Guoyang_Liu_Sec003_COMP212_Lab02_3.pdb
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise3\Guoyang_Liu_Sec003_COMP212_Lab02_3\bin\Debug\LinkedListLibrary.dll
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise3\Guoyang_Liu_Sec003_COMP212_Lab02_3\bin\Debug\LinkedListLibrary.pdb
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise3\Guoyang_Liu_Sec003_COMP212_Lab02_3\obj\Debug\LinkedListLibraryTest.csprojAssemblyReference.cache
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise3\Guoyang_Liu_Sec003_COMP212_Lab02_3\obj\Debug\LinkedListLibraryTest.csproj.CopyComplete
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise3\Guoyang_Liu_Sec003_COMP212_Lab02_3\obj\Debug\Guoyang_Liu_Sec003_COMP212_Lab02_3.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise3\Guoyang_Liu_Sec003_COMP212_Lab02_3\obj\Debug\Guoyang_Liu_Sec003_COMP212_Lab02_3.pdb

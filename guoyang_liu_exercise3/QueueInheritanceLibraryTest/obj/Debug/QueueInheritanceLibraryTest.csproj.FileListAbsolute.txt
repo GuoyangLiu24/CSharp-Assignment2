@@ -1,0 +1,12 @@
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\bin\Debug\QueueInheritanceLibraryTest.exe.config
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\bin\Debug\QueueInheritanceLibraryTest.exe
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\bin\Debug\QueueInheritanceLibraryTest.pdb
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\bin\Debug\LinkedListLibrary.dll
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\bin\Debug\QueueInheritanceLibrary.dll
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\bin\Debug\LinkedListLibrary.pdb
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\bin\Debug\QueueInheritanceLibrary.pdb
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\obj\Debug\QueueInheritanceLibraryTest.csprojAssemblyReference.cache
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\obj\Debug\QueueInheritanceLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\obj\Debug\QueueInheritanceLibraryTest.csproj.CopyComplete
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\obj\Debug\QueueInheritanceLibraryTest.exe
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\QueueInheritanceLibraryTest\obj\Debug\QueueInheritanceLibraryTest.pdb

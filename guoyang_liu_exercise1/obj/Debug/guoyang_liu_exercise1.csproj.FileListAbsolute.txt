@@ -1,0 +1,6 @@
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise1\bin\Debug\guoyang_liu_exercise1.exe.config
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise1\bin\Debug\guoyang_liu_exercise1.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise1\bin\Debug\guoyang_liu_exercise1.pdb
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise1\obj\Debug\guoyang_liu_exercise1.csprojAssemblyReference.cache
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise1\obj\Debug\guoyang_liu_exercise1.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab02\guoyang_liu_exercise1\obj\Debug\guoyang_liu_exercise1.pdb

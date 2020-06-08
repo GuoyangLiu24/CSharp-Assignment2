@@ -1,0 +1,6 @@
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\LinkedListLibrary\bin\Debug\LinkedListLibrary.dll
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\LinkedListLibrary\bin\Debug\LinkedListLibrary.pdb
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\LinkedListLibrary\obj\Debug\LinkedListLibrary.csprojAssemblyReference.cache
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\LinkedListLibrary\obj\Debug\LinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\LinkedListLibrary\obj\Debug\LinkedListLibrary.dll
+C:\Users\Z199511\Desktop\YenHao-Fan_Sec004_COMP212_Lab02_2\LinkedListLibrary\obj\Debug\LinkedListLibrary.pdb
